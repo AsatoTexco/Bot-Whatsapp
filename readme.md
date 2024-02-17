@@ -1,2 +1,4 @@
-# npm install axios
-# npm install node-fetch
+# Bot-Whatsapp
+Um Bot para whatsapp
+
+https://wwebjs.dev/guide/authentication.html
