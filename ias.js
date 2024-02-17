@@ -16,7 +16,7 @@ function uniqid(prefix = "") {
 }
 
 
-const apiKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMzMzODBhMGMtNzc5ZC00NjAxLTgxNzItMzBlZmRkZjVlZGQ1IiwidHlwZSI6ImFwaV90b2tlbiJ9.oCMAJEsc84TiQvbgynl-YNwE0fuvZj1eHmDkq3M560M'
+const apiKey = 'YOUR_TOKEN'
 function fazerRequisicaoChat(texto, numero, dados_chat) {
     const url = "https://api.edenai.run/v2/text/chat";
 
